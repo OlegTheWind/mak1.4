@@ -60,7 +60,11 @@ button{
 .block_info_button{
 }
 
-.round-button,
+.round-button{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
 .round-button-bottom{
     height: 40px;
     width: 40px;
